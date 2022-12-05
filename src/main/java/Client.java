@@ -15,7 +15,6 @@ public class Client {
             String text = "бизнес";
             System.out.println(text);
             out.println(text);
-           // System.out.println(in.readLine());
         } catch (IOException e) {
             e.printStackTrace();
         }
